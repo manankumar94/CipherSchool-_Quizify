@@ -65,19 +65,3 @@ After completing the test, submit your answers.
 The test results will be calculated by a cron job that runs every hour.
 The score will be automatically sent to the user's email.
 
-
-## Directory Structure
-Quizify
-│
-├── client/               # Frontend (React.js)
-│   ├── public/           # Public assets
-│   └── src/              # React components and pages
-│
-├── server/               # Backend (Node.js, Express.js)
-│   ├── controllers/      # Route handlers
-│   ├── models/           # Mongoose models
-│   ├── routes/           # API routes
-│   ├── seed.js           # Database seeding script
-│   └── server.js         # Entry point for the backend
-│
-└── README.md             # Project documentation
