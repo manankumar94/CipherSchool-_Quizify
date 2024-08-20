@@ -1,4 +1,4 @@
-# Quizifyq
+# Quizify
 
 This is a web-based platform where students can take multiple-choice question (MCQ) tests. The platform manages user authentication, handles test administration, and evaluates and displays the results to the users.
 
